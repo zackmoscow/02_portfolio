@@ -14,7 +14,7 @@ INDEX
 - main container style edited to match 01_portfolio assignment
 - single row, single column set for md and content justified in center
 - h1 style attributes edited to match 01_portfolio
-- float image and set static dimensions (200x200)
+- float image and set max height/width dimensions (200x200)
 
 PORTFOLIO
 - first row set for only 1 column for h1
