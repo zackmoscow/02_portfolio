@@ -8,6 +8,7 @@ HEADER
 1. created container with max-width attribute within navbar div so that "brand" would align with the margin of the main content container below
 2. style changes for "brand" 
 3. responsive margin for about/portfolio/contact links
+4. collapse functionality for above links
 
 INDEX
 - main container style edited to match 01_portfolio assignment
